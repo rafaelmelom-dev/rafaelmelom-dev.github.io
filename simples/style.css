@@ -1,0 +1,7 @@
+.item {
+    padding-bottom: 0.5rem;
+}
+
+.item > select {
+    margin-left: 0.5rem;
+}
